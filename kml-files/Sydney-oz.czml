@@ -1,0 +1,13 @@
+[ {
+  "orientation" : {
+    "unitQuaternion" : [ 0.25997853843461416, -0.20883068405702343, -0.03626716901005182, 0.9420645399343264 ]
+  },
+  "id" : "opera_house_model",
+  "model" : {
+    "scale" : 1,
+    "gltf" : "geometry/theModel.gltf"
+  },
+  "position" : {
+    "cartographicDegrees" : [ 151.2093, -33.8688, 10 ]
+  }
+} ]
